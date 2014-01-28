@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/rep/!svn/ver/55/370/src/EbayCrawler
+END
+Initialize.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rep/!svn/ver/53/370/src/EbayCrawler/Initialize.java
+END
+TreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rep/!svn/ver/53/370/src/EbayCrawler/TreeNode.java
+END
+GetQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rep/!svn/ver/52/370/src/EbayCrawler/GetQueryResult.java
+END
+WebpageReaderWithAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rep/!svn/ver/27/370/src/EbayCrawler/WebpageReaderWithAgent.java
+END
+GetPreviousResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rep/!svn/ver/55/370/src/EbayCrawler/GetPreviousResults.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rep/!svn/ver/53/370/src/EbayCrawler/MainMenu.java
+END
+GetAuctionDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rep/!svn/ver/54/370/src/EbayCrawler/GetAuctionDetails.java
+END
+GetCategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rep/!svn/ver/52/370/src/EbayCrawler/GetCategories.java
+END
